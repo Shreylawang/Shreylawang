@@ -1,8 +1,46 @@
 ### Hi there 👋 It Shrey 😎
-- 🌱 I’m currently learning MEAN Stack
-- 🤔 I’m looking for help with Javascript/UI-UX/MEAN Stack
-- 📫 How to reach me: github.com/Shreylawang
-- ⚡ Fun fact: I am a Curious Learner 😄
+### &#x0003C;&#x0002F;&#x0003E; {MEAN Stack Web Developer}
+
+- 🌱 Currently, I am learning MEAN Stack web development. <br>
+- 📫 2022 Goals: Learn Angular and work on some personal projects. <br>
+- 🤔 I’m looking for help with Javascript/UI-UX/MEAN Stack <br>
+- ⚡ Hobbies: Coding, Fitness, Reading Books. <br>
+
+### Languages and Tools:
+
+<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-github-48.png" />
+
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
+
+
+
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-mongodb.svg">
+
+<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+
+<img align="left" alt="Angular" width="26px" src="https://icons8.com/icon/71257/angularjs">
+
+<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
+
+
+<br />
+<br />
+
+
+
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreyLawang&theme=gruvbox&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
