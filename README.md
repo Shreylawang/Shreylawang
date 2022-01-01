@@ -1,9 +1,9 @@
 ### Hi there 👋 It Shrey 😎
-### &#x0003C;&#x0002F;&#x0003E; {MEAN Stack Web Developer}
+### &#x0003C;&#x0002F;&#x0003E; {MERN Stack Web Developer}
 
-- 🌱 Currently, I am learning MEAN Stack web development. <br>
-- 📫 2022 Goals: Learn Angular and work on some personal projects. <br>
-- 🤔 I’m looking for help with Javascript/UI-UX/MEAN Stack <br>
+- 🌱 Currently, I am learning MERN Stack web development. <br>
+- 📫 2022 Goals: Learn MERN Stack and work on some personal projects. <br>
+- 🤔 I’m looking for help with Javascript/UI-UX/MERN Stack <br>
 - ⚡ Hobbies: Coding, Fitness, Reading Books. <br>
 
 ### Languages and Tools:
